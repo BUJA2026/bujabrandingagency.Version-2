@@ -1,0 +1,10 @@
+{
+  "name": "buja-branding-agency",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BUJA Branding Agency premium sales system",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
